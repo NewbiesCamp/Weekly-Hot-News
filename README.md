@@ -6,16 +6,16 @@ English / [简体中文](./README_CN.md)
 
 ## Project Introduction
 
-This project aims to help users understand current major news events and improve English learning skills by summarizing and presenting global hot news weekly. Each week we will release a news summary file with Chinese-English bilingual content, covering hot topics in economics, international affairs, technology, environment and other fields. By reading bilingual news content, users can improve their English proficiency and learn relevant professional terms and sentence patterns.
+This project aims to use AI to summarize and display weekly global hot news, helping users understand current major news events while improving English learning skills. Every week we will publish a news summary file with Chinese-English comparison, covering hot events in fields such as economy, international affairs, technology, and environment. By reading the Chinese-English news content, users can improve their English proficiency and learn relevant professional terms and sentence patterns.
 
 ## News Directory
 ## 2025
 ### January
-- [0126-0130 Global economic slowdown, pandemic rebound, unchanged Fed interest rate](/docs/2025/01/0130.md)
+- [0126-0130 Global Economic Slowdown, Pandemic Rebound, Unchanged US Interest Rates](/docs/2025/01/0130.md)
 
 ## Contribution
 We welcome any form of contribution! If you have suggestions for project improvement or want to participate, please submit an Issue or directly create a Pull Request.
 
 ## License
 
-Adopted [MIT](https://opensource.org/license/mit/) license, please refer to [LICENSE](/LICENSE) file for details.
+Adopted [MIT](https://opensource.org/license/mit/) license, please see [LICENSE](/LICENSE) file for details.
