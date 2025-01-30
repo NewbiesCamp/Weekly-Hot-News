@@ -1,4 +1,7 @@
 <div align="center">
+<a href='https://github.com/NewbiesCamp/Weekly-Hot-News'>
+  <img src="https://github.com/NewbiesCamp/picx-images-hosting/raw/master/20250131-002608.7lk3nr6ryc.webp" width="1000" alt="icon"/>
+</a>
 <h1 align="center">Weekly Hot News</h1>
 
 English / [简体中文](./README_CN.md)
